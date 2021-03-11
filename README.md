@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: 
- Instagram: @kris.olvr
- LinkedIn: https://www.linkedin.com/in/krislane-oliveira-5b8683208/
+<br> Instagram: @kris.olvr
+<br> LinkedIn: https://www.linkedin.com/in/krislane-oliveira-5b8683208/
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
