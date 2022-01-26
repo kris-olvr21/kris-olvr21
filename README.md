@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning HTML, JAVASCRIPT, CSS
+- 🌱 I’m currently learning HTML, JAVASCRIPT, CSS and REACT.JS
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
